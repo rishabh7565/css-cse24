@@ -1,0 +1,15 @@
+.highlight{color:red;
+font-weight:bold;
+}
+P{  
+
+    padding:20px;
+
+}
+div{height:500px;
+    width:400px;
+    background-color: bisque;
+    border: 1px solid black;
+    padding: 10px;
+    margin-left: 50px;
+}
