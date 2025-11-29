@@ -1,0 +1,9 @@
+div{
+    height: 300px;
+    width: 300;
+    background-color: aquamarine;
+    font-size: larger;
+    align-content: center;
+    align-items: center;
+}
+<p style="border: 2px solid blue;">This paragraph has a blue solid border.</p>
